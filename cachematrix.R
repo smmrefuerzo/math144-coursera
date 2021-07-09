@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-##There are mainly two functions makeCacheMatrix, makeCacheMatrix
+##There are mainly two functions makeCacheMatrix, makeCacheSolve
 ##makeCacheMatrix consists of set,get,setinv,getinv
 ##in here library(MASS) is used in calculating the inverse for non squared as well as square matrices
 library(MASS)
